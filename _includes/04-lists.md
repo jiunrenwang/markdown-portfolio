@@ -1,12 +1,12 @@
-List of favorite  Final Fantasy characters:
+List of favorite  *Final Fantasy* characters:
 
-1. Yuna
-2. Cloud
-3. Lightning
-4. Vanille
-5. Sazh
-6. Cecil
-7. Fang
-8. Riku
-9. Ignis
-10. Cecil
+1. Yuna (**FFX**)
+2. Cloud (**FFVII**)
+3. Lightning (**FFXIII**)
+4. Vanille (**FFXIII**)
+5. Sazh (**FFXIII**)
+6. Gabranth (**FFXII**)
+7. Fang (**FXIII**)
+8. Riku (**FFX**)
+9. Ignis (**FFXV**)
+10. Balthier (**FFXII**)
